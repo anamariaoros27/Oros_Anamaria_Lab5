@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oros_Anamaria_Lab5", "Oros_Anamaria_Lab5.csproj", "{4E99B3AB-0C28-4778-8CBF-F4648FFCA430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGeistModel", "AutoGeistModel\AutoGeistModel.csproj", "{6156A0A7-2277-45AF-B57B-3BE6CC2F0FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E99B3AB-0C28-4778-8CBF-F4648FFCA430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E99B3AB-0C28-4778-8CBF-F4648FFCA430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E99B3AB-0C28-4778-8CBF-F4648FFCA430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E99B3AB-0C28-4778-8CBF-F4648FFCA430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6156A0A7-2277-45AF-B57B-3BE6CC2F0FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6156A0A7-2277-45AF-B57B-3BE6CC2F0FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6156A0A7-2277-45AF-B57B-3BE6CC2F0FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6156A0A7-2277-45AF-B57B-3BE6CC2F0FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D90B1BD-A8D6-4A6B-8C57-C4A73DE6ECF3}
+	EndGlobalSection
+EndGlobal
