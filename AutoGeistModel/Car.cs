@@ -16,7 +16,7 @@ namespace AutoGeistModel
         }
 
         public int CarID { get; set; }
-
+        public object CarId { get; set; }
         [StringLength(50)]
         public string Make { get; set; }
 
