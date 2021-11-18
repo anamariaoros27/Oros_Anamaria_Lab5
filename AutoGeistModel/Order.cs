@@ -13,7 +13,7 @@ namespace AutoGeistModel
 
         public int? CustId { get; set; }
 
-        public int? CarId { get; set; }
+        public int? CarID { get; set; }
 
         public virtual Car Car { get; set; }
 
